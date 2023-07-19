@@ -21,11 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.danielei99.snacke9fc009d4a89407690282aebb05a2e79"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "https://github.com/sbycrosz/react-native-credit-card-input"
+    "description": "https://github.com/sbycrosz/react-native-credit-card-input",
+    "extra": {
+      "eas": {
+        "projectId": "3007ce30-fb43-4656-baf2-371b3fdea414"
+      }
+    }
   }
 }
